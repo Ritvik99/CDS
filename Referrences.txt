@@ -1,0 +1,15 @@
+ANN:
+https://towardsdatascience.com/first-neural-network-for-beginners-explained-with-code-4cfd37e06eaf
+Dataset: Simple implementation of logical AND using perceptron
+
+CNN:
+https://towardsdatascience.com/convolutional-neural-networks-for-beginners-practical-guide-with-python-and-keras-dc688ea90dca
+Dataset: keras.datasets.mnist
+
+RNN and LSTM
+https://github.com/krishnaik06/Time-Series-Forecasting
+Dataset: using a simple sequence for training both RNN and LSTM.
+
+Autoencoder
+https://towardsdatascience.com/autoencoder-neural-networks-what-and-how-354cba12bf86
+Dataset: keras.datasets.mnist
